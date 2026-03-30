@@ -12,7 +12,6 @@ This project involves implementing software solutions for controlling and managi
 This repository provides solutions for the following tasks:
 
 *   Task 1
-*   Task 5
 *   Task 6
 
 ---
